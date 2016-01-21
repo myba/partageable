@@ -1,4 +1,4 @@
-﻿La génération a démarré 21/01/2016 15:40:10.
+﻿La génération a démarré 21/01/2016 22:16:28.
      1>Projet "C:\Users\Yessine\Documents\GitHub\partageable\Composant2\Composant2.vcxproj" sur le nœud 3 (Build cible(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Users\Yessine\Documents\GitHub\partageable\Interfaces /ZI /nologo /W3 /WX- /Od /Oy- /D COMPOSANT2_EXPORTS /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Composant2.cpp
@@ -14,4 +14,4 @@
 
 La génération a réussi.
 
-Temps écoulé 00:00:00.81
+Temps écoulé 00:00:00.49
