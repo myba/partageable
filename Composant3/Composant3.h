@@ -4,7 +4,7 @@
 #ifndef COMPOSANT3_H
 #define COMPOSANT3_H
 #define COMPOSANT3_VERSION 1,2,0,0
-#define COMPOSANT_VERSION_STR ”1,2,0,0”
+#define COMPOSANT3_VERSION_STR "1,2,0,0"
 
 #ifdef COMPOSANT3_EXPORTS
 #define COMPOSANT3_INTERFACE __declspec(dllexport)

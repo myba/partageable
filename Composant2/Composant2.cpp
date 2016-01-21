@@ -2,7 +2,6 @@
 //
 
 #include "Composant2.h"
-#include "Composant2Version.h"
 
 int composant2(int p1, int p2)
 {

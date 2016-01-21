@@ -1,10 +1,8 @@
-﻿La génération a démarré 21/01/2016 14:13:10.
-     1>Projet "C:\Users\Yessine\Documents\GitHub\partageable\Composant3\Composant3.vcxproj" sur le nœud 2 (Build cible(s)).
+﻿La génération a démarré 21/01/2016 15:22:28.
+     1>Projet "C:\Users\Yessine\Documents\GitHub\partageable\Composant3\Composant3.vcxproj" sur le nœud 4 (Build cible(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D COMPOSANT3_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Composant3.cpp
          Composant3.cpp
-     1>c:\users\yessine\documents\github\partageable\composant3\composant3version.h(20): warning C4005: 'COMPOSANT_VERSION_STR' : redéfinition de macro
-         c:\users\yessine\documents\github\partageable\composant3\composant3.h(7): note: voir la définition précédente de 'COMPOSANT_VERSION_STR'
        ResourceCompile:
          C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Composant3.res" Composant3.rc 
        Link:
@@ -16,4 +14,4 @@
 
 La génération a réussi.
 
-Temps écoulé 00:00:00.97
+Temps écoulé 00:00:00.60
