@@ -1,4 +1,4 @@
-#include "Composant3.h"
+
 #include"Composant3Version.h"
 
 // Composant2.cpp : Defines the routines for the DLL.
@@ -21,5 +21,5 @@ int addition_interne(int a1, int a2)
 
 char * getComposant3Version()
 {
-	return "Composant 3 version " COMPOSANT3_VERSION_STR;
+	return "Composant 3 version " COMPOSANT_VERSION_STR;
 }

@@ -17,5 +17,5 @@
 #define VERSION_TEXT(_version,_build,_interface,_fonction) \
 	TOSTRING(_version) TOSTRING(.) TOSTRING(_build) TOSTRING(.) TOSTRING(_interface) STRINGIFY(.) TOSTRING(_fonction)
 
-#define COMPOSANT3_VERSION_STR VERSION_TEXT(ComposantVersion_1,ComposantVersion_2,ComposantVersion_2,ComposantVersion_4)
+#define COMPOSANT_VERSION_STR VERSION_TEXT(ComposantVersion_1,ComposantVersion_2,ComposantVersion_2,ComposantVersion_4)
 
