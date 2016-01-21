@@ -1,4 +1,4 @@
-
+#include "Composant3.h"
 #include"Composant3Version.h"
 
 // Composant2.cpp : Defines the routines for the DLL.

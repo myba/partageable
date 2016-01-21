@@ -1,5 +1,5 @@
 
-
+#include "Composant1.h"
 #include "Composant1Version.h"
 #include "Composant3.h"
 #include<string>
