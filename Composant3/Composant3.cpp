@@ -1,7 +1,9 @@
+#include "Composant3.h"
+
+
+
 // Composant2.cpp : Defines the routines for the DLL.
 //
-
-#include "Composant3.h"
 
 // declaration des fonctions internes
 int addition_interne(int a1, int a2);
